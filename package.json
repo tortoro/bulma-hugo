@@ -1,0 +1,16 @@
+{
+  "name": "bulma-hugo",
+  "version": "1.0.0",
+  "description": "A bulma hugo starter site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Torleif Nielsen",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.2.3",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.9.0"
+  }
+}
